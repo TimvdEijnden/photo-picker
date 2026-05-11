@@ -1,0 +1,21 @@
+{
+  "name": "photo-picker",
+  "version": "1.0.0",
+  "description": "Review and select photos in the browser. Launched from the command line. Press space to copy keepers to an output folder.",
+  "bin": {
+    "photo-picker": "bin/photo-picker.js"
+  },
+  "files": [
+    "bin"
+  ],
+  "author": "Tim van den Eijnden",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimvdEijnden/photo-picker.git"
+  },
+  "homepage": "https://github.com/TimvdEijnden/photo-picker",
+  "license": "ISC",
+  "engines": {
+    "node": ">=14"
+  }
+}
