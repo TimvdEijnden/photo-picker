@@ -1,6 +1,6 @@
 {
   "name": "photo-picker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Review and select photos in the browser. Launched from the command line. Press space to copy keepers to an output folder.",
   "bin": {
     "photo-picker": "bin/photo-picker.js"
